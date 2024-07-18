@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://onespauls.github.io/sitemap/sitemap.txt
